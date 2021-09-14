@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# SRTP for AD
 
-You can use the [editor on GitHub](https://github.com/SRTP-for-AD/SRTP-for-AD.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the home page of our team (SRTP for AD)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Aim
 
-### Markdown
+To obtain potential network regulation mechanisms of the development of Alzheimer’s disease, data in different tissues from AlzData, a dataset providing single cell expression, were mined to find mitochondria-related differential expression genes by using bioinformatics methods
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Who we are
 
-```markdown
-Syntax highlighted code block
+* **Mentor**: Xinhe Huang (Associate Professor)
 
-# Header 1
-## Header 2
-### Header 3
+* **team members**:
+    
+    * Heyuan Xiao: The student leader of out group, form School of Physical Science and Technology, Southwest Jiaotong University (SWJTU)
 
-- Bulleted
-- List
+    * Yuhan Li: student from School of Computing and Artificial Intelligence, SWJTU
 
-1. Numbered
-2. List
+    * Jing Wang: student form School of Life Science and Engineering, SWJTU
 
-**Bold** and _Italic_ and `Code` text
+    * Jiajie Feng: student form School of Life Science and Engineering, SWJTU
 
-[Link](url) and ![Image](src)
-```
+    * Xinyi Qi: student form School of Life Science and Engineering, SWJTU
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Acknowledgements
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SRTP-for-AD/SRTP-for-AD.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Supported by Student Research Training Program (SRTP), No. 202010613061
