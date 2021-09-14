@@ -12,7 +12,7 @@ To obtain potential network regulation mechanisms of the development of Alzheime
 
 * **team members**:
     
-    * Heyuan Xiao: The student leader of out group, form School of Physical Science and Technology, Southwest Jiaotong University (SWJTU)
+    * Heyuan Xiao: The student leader of our group, form School of Physical Science and Technology, Southwest Jiaotong University (SWJTU)
 
     * Yuhan Li: student from School of Computing and Artificial Intelligence, SWJTU
 
